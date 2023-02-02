@@ -106,11 +106,3 @@ header ul li a:hover, .active {
     line-height: 1.7;
     color: #fff; 
 }
-.footer {
-    color: #fff;
-    transform: translate(-550px, 460px);
-    text-align: center;
-    padding: 10px;
-    font-size: 16px;
-
-}
